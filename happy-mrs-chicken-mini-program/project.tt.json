@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "happy-mrs-chicken-mini-program",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
