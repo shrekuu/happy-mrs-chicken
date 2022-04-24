@@ -1,7 +1,5 @@
 # 小猪佩奇快乐小鸡游戏
 
-## TODO
+[Demo](https://happy-mrs-chicken.projects.linwise.com)
 
-- 蛋图片
-- 音效音乐
-- 写代码, 下蛋
+![截图](screenshot.png)
